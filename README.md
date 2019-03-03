@@ -7,3 +7,7 @@ _Plantilla para crear una intro en CSS._
 _Ejecútalo en tu navegador predeterminado_
 
 ## Construido con 🛠 
+
+* html
+* CSS
+* https://code.visualstudio.com/
