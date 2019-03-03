@@ -10,4 +10,4 @@ _Ejecútalo en tu navegador predeterminado_
 
 * html
 * CSS
-* [Visual Studio Code] (https://code.visualstudio.com/) - El ide usado
+* [Visual Studio Code](https://code.visualstudio.com/)
